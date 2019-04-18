@@ -1,6 +1,6 @@
 #!/usr/bin/env groovy
 
 def call(String name = 'human') {
-  echo "Hello!!!!!!!!!!!!!!!!!!!!!!!!!1, ${name}."
+  echo "Hello 18th april election, ${name}."
 }
 
