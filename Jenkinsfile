@@ -5,3 +5,6 @@ echo 'Hello World'
 sayHello 'Dave'
 
 }
+stage('deploy'){
+deploy('L1')
+}
